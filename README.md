@@ -1,5 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
+![github-header-image](https://github.com/TrungNguyen1409/TrungNguyen1409/assets/96893597/5fce8c7c-9b64-44bb-a3ce-0657e61a62f9)
 
 ## About Me
 
@@ -37,8 +38,6 @@ Hi there! My name is Trung. I'm a passionate **Blockchain & Web3 Enthusiast** cu
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trungnguyen1409&layout=compact&theme=radical)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=trungnguyen1409&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trungnguyen1409&theme=radical)
 
 ## Support
