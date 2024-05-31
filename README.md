@@ -9,7 +9,9 @@ Hi there! My name is Trung. I'm a passionate **Blockchain & Web3 Enthusiast** cu
 - 🌐 **Web3 Explorer**: Exploring the endless possibilities of Web3 and its impact on the internet.
 - 📚 **Lifelong Learner**: Continuously enhancing my knowledge in blockchain, cryptography, and distributed systems.
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=trungnguyen1409&color=brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/trungnguyen1409?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/trungnguyen1409?style=social)
 
 ## Skills
 
@@ -34,6 +36,10 @@ Hi there! My name is Trung. I'm a passionate **Blockchain & Web3 Enthusiast** cu
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=trungnguyen1409&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trungnguyen1409&layout=compact&theme=radical)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=trungnguyen1409&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trungnguyen1409&theme=radical)
 
 ## Support
 
