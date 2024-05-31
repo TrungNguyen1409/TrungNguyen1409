@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile! 👋
-
 ![github-header-image](https://github.com/TrungNguyen1409/TrungNguyen1409/assets/96893597/5fce8c7c-9b64-44bb-a3ce-0657e61a62f9)
 
 ## About Me
