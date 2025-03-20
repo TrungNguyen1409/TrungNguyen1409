@@ -10,7 +10,7 @@ Hi there! My name is Trung. I'm a passionate **Blockchain & Web3 Enthusiast** cu
 
 ![Profile Views](https://komarev.com/ghpvc/?username=trungnguyen1409&color=brightgreen)
 ![GitHub followers](https://img.shields.io/github/followers/trungnguyen1409?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/trungnguyen1409?style=social)
+![Twitter Follow](https://img.shields.io/twitter/)
 
 ## Skills
 
