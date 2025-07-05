@@ -34,11 +34,4 @@ Hi there! My name is Trung. I'm a passionate **Blockchain & Web3 Enthusiast** cu
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trungnguyen1409&theme=radical)
 
-## Support
 
-If you like my work and want to support me, consider buying me a coffee!
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
-
-
-Thanks for visiting my GitHub profile! Have a great day! 😊
