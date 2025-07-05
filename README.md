@@ -17,7 +17,7 @@ Hi there! My name is Trung. I'm a passionate **Blockchain & Web3 Enthusiast** cu
 
 ## Education
 
-- 📖 **Master's in Computer Science**, Technical University of Munich
+- 📖 **Master's in Computer Science**, Technical University of Munich + EPFL
 - 🎓 **Bachelor's in Computer Science**, Ludwig-Maximillian-University of Munich
 
 ## Get in Touch
